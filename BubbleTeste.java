@@ -2,7 +2,7 @@ import java.util.Date;
 import java.util.Random;
 import java.util.Scanner;
 
-public class TesteVetores {
+public class BubbleTeste {
 
     static void geraVetor (int[] v) {
         Random random = new Random();
