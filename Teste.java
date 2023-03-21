@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Teste{
+public class InsertionTeste{
     static void geraVetor(int[] v){
         Random r = new Random();
         for(int i = 0; i < v.length; i++){
